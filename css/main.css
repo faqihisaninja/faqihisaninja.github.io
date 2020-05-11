@@ -1,0 +1,23 @@
+/* html {
+    background: grey;
+    color: #232147;
+    font-family: Arial, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bolder;
+} */
+
+body {
+    text-align: center;
+}
+
+#img-div {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    margin: 6px 50px 6px 50px;
+}
+
+img {
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+}
